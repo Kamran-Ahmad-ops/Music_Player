@@ -25,7 +25,7 @@ JavaScript – Logic for file handling and audio control
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/spotify-style-player.git
+git clone https://music-player-khaki-theta.vercel.app/
 cd spotify-style-player
 2. Open the App
 You can open index.html directly in your browser:
